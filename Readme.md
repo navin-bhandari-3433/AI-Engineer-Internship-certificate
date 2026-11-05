@@ -14,7 +14,7 @@ Organization: LinkUp Technology
 
 Location: Letang-9, Morang, Nepal
 
-Duration: October 2025 to April 2026
+Duration: October 2025 to May 2026
 
 ## Areas of Experience
 
